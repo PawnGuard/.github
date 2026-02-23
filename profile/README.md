@@ -11,14 +11,12 @@
 
   ### *We protect what matters — one move ahead.*
 
-  > PawnGuard builds open-source security tooling that helps developers
-  > ship safer software without slowing down their workflow.
+  > PawnGuard construye open-source software
 
   <br/>
 
   <!-- ── Social / Status Badges ── -->
-  [![GitHub Org Stars](https://img.shields.io/badge/dynamic/json?label=Org%20Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Forgs%2FPawnGuard&style=flat-square&color=gold)](https://github.com/PawnGuard)
-  [![Members](https://img.shields.io/badge/Team-Open%20to%20Contributors-brightgreen?style=flat-square)](https://github.com/PawnGuard)
+  <img src="https://img.shields.io/badge/DEDSEC-CERTIFIED-000000?style=for-the-badge&logo=hack-the-box&logoColor=white" alt="DedSec Certified" />
 
 </div>
 
@@ -38,24 +36,9 @@ We move like the pawn: steady, purposeful, and always advancing. 🛡️
 
 | Project | Description | Stack | Stars |
 |---|---|---|---|
-| ♟️ [**pawnguard-core**](https://github.com/PawnGuard/pawnguard-core) | Core security scanning engine for CI/CD pipelines | Go · Docker | ⭐ — |
-| 🛡️ [**sentinel-cli**](https://github.com/PawnGuard/sentinel-cli) | CLI tool to audit dependencies and secrets in any repo | Rust · GitHub Actions | ⭐ — |
-| 🔍 [**watchpost**](https://github.com/PawnGuard/watchpost) | Real-time webhook monitor and anomaly detector | TypeScript · Node.js | ⭐ — |
-| 📦 [**vault-kit**](https://github.com/PawnGuard/vault-kit) | Lightweight SDK for secrets management integration | Python | ⭐ — |
+| ♟️ [**Hack2Dawn**](https://github.com/PawnGuard/hack2dawn-front-end) | Core security scanning engine for CI/CD pipelines | NextJS · CTFd |
 
 > 📌 Also check our **[pinned repositories](https://github.com/PawnGuard)** for the most up-to-date highlights.
-
----
-
-## 📊 Organization Stats
-
-<div align="center">
-
-  <!-- Replace 'PawnGuard' with your actual GitHub org/user if using a proxy -->
-  <img src="https://github-readme-stats.vercel.app/api?username=PawnGuard&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="PawnGuard Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PawnGuard&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages"/>
-
-</div>
 
 ---
 
@@ -99,7 +82,7 @@ We move like the pawn: steady, purposeful, and always advancing. 🛡️
 
   [![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-invite)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/pawnguard)
-  [![Email](https://img.shields.io/badge/Email-hello@pawnguard.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white)](team@pawnguard.org)
+  [![Email](https://img.shields.io/badge/team@pawnguard.org-D14836?style=for-the-badge&logo=gmail&logoColor=white)](team@pawnguard.org)
 
   <br/>
   <sub>© 2026 PawnGuard · Built with ♟️ and a lot of ☕</sub>
