@@ -60,7 +60,7 @@ We move like the pawn: steady, purposeful, and always advancing. 🛡️
           <img src="https://avatars.githubusercontent.com/JRV-XVI" width="80px" style="border-radius:50%" alt="Member 2"/><br/>
           <sub><b>Shadow</b></sub>
         </a><br/>
-        <sub>Co-founder · Backend</sub>
+        <sub>Co-founder · Backend · IoT </sub>
       </td>
       <td align="center">
         <a href="https://github.com/sammy-ulfh">
